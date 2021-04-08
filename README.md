@@ -48,3 +48,10 @@
   <li><a href="https://github.com/hershyz/apcsa-problemset/tree/main/Misc/aboveMean">Above Mean</a></li>
   <li><a href="https://github.com/hershyz/apcsa-problemset/tree/main/Misc/uniqueWords">Unique Words</a></li>
 </ul>
+
+<br>
+
+<h3>Usage</h3>
+<p>
+  To test your solution to a problem, copy the <code>Main.java</code> and <code>Check.java</code> into your IDE or workspace (additional files need to be added from the Classes, Inheritance, and Interfaces problems). Then, write the method(s) according to the prompt. When the <code>Main.java</code> file executed, the checking code will test your solution against an array of cases. Your solution is accepted if all cases pass.
+</p>
